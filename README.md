@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Mohit 👋📊
 
-<!--
-**Mohit-Bhoir/Mohit-Bhoir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quant-in-training | MSc Artificial Intelligence 🤖  
+Turning market noise into signals with Python, ML & coffee ☕📈
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+📈 **FX ML Trading Bot** — https://fxtradebot.streamlit.app/  
+💼 **AI Portfolio Advisor** — https://ai-finance-advisor-8hd9.onrender.com/  
+
+---
+
+## 📊 GitHub Stats
+![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-Bhoir&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Bhoir&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Currently Exploring
+- Quant research workflows
+- FX options & pricing models
+- Risk analytics
+- Crypto markets
+
+📫 LinkedIn: https://linkedin.com/in/mohit-bhoir
