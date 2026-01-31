@@ -22,12 +22,6 @@ Turning market noise into signals with Python, ML & coffee ☕📈
 
 ---
 
-## 📊 GitHub Stats
-![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohit-Bhoir&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Bhoir&layout=compact&theme=tokyonight)
-
----
-
 ## 🚀 Currently Exploring
 - Quant research workflows
 - FX options & pricing models
